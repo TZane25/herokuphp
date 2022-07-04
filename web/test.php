@@ -8,7 +8,16 @@
   <meta charset="UTF-8">
 
 </head>
-<body style="font-size:5vh; padding:5vh; text-align:center;">
+
+<style>
+    body{
+        font-size:5vh;
+        padding:5vh;
+        text-align:center;
+    }
+
+</style>
+<body>
   Hello World!
 </body>
 </html>
