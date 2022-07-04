@@ -11,14 +11,7 @@
 
 </head>
 
-<style>
-    body{
-        font-size:5vh;
-        padding:5vh;
-        text-align:center;
-    }
 
-</style>
 <body>
   Hello World!
 </body>
